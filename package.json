@@ -1,5 +1,5 @@
 {
-  "name": "findNearestColourScheme",
+  "name": "nearest-colour-scheme",
   "version": "1.0.0",
   "description": "Find the perceptually nearest colourscheme given a colour, using hunter lab",
   "license": "MIT",

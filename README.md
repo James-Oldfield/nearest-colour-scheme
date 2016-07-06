@@ -1,8 +1,12 @@
-# findNearestColourScheme
+# nearest-colour-scheme
 
 Find the most appropriate colour scheme and order given an input colour and set of colour palettes, based on Hunter Lab similarity.
 
 ---
+
+## install
+
+`npm i nearest-colour-scheme --save`
 
 ## usage 
 
